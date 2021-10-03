@@ -17,9 +17,9 @@
       "webPlus": {}
     },
     {
-      "name": "(新增)稳定直播*荐*",
+      "name": "(新增",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/422807998/FreeD/blob/master/tv/zhanqi.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/422807998/FreeD@master/tv/zhanqi.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
@@ -35,7 +35,7 @@
     {
       "name": "直播",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/422807998/FreeD@master/tv/newtv.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
