@@ -17,10 +17,10 @@
       "webPlus": {}
     },
     {
-      "name": "(新增",
+      "name": "mjxd",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "webUrl": "https://cdn.jsdelivr.net/gh/422807998/FreeD@master/tv/zhanqi.m3u",
-      "type": "m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/422807998/FreeD@master/tv/mjxd.json",
+      "type": "gitJson",
       "subTitle": "经典动画电影整理中",
       "click": true,
       "autoNext": false,
